@@ -1,0 +1,10 @@
+.question-box {
+  margin: 10px;
+  background-color: chartreuse;
+  padding: 10px;
+  width: 60%;
+}
+
+.radio-option {
+  margin: 10px;
+}
